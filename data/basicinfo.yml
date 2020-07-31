@@ -1,6 +1,6 @@
 name: "Mickey Capper"
 title: "Multimedia Journalist & Audio Producer"
-description: "I've made podcasts for NPR, Slate, WBEZ, KCRW, Audible and others. I'm currently writing stories, shooting videos, and building interactives at the UC Berkeley School of Journalism. This is a selection of some of my work from over the years."
+description: "I've made podcasts for NPR, Slate, WBEZ, KCRW, Audible and others. I recently completed my Masters at UC Berkeley's School of Journalism, where I trained to report deeply, write stories, shoot videos, and build interactives. This is a selection of some of my work from over the years."
 socialmedia: 
   - title: "Email"
     url: "mailto:mickey.capper@gmail.com"
@@ -21,7 +21,7 @@ portfolio:
   - title: "Tape"
     url: "https://soundcloud.com/taperadio"
     photo: "assets/cover-art/tape.jpg"
-    description: "My co-host Mooj Zadie and I interview the best producers, hosts, and reporters making radio today. I was also the technical director for the first two years of Tape Fest, an acclaimed live celebration of storytelling in Brooklyn"
+    description: "My co-host Mooj Zadie and I interview the best producers, hosts, and reporters making radio today. I was also the technical director for the first two years of Tape Fest, an acclaimed live celebration of storytelling in Brooklyn."
   - title: "Sidewalks"
     url: "https://sidewalks.xyz/"
     photo: "assets/cover-art/Sidewalks.jpg"
