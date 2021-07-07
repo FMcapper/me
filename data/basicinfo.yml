@@ -1,6 +1,6 @@
 name: "Mickey Capper"
 title: "Multimedia Journalist & Audio Producer"
-description: "I've made podcasts for NPR, Slate, WBEZ, KCRW, Audible and others. I recently completed my Masters at UC Berkeley's School of Journalism, where I trained to report deeply, write stories, shoot videos, and build interactives. This is a selection of some of my work from over the years."
+description: "I've made podcasts for NPR, WIRED, Slate, WBEZ, KCRW, Audible and others. I have a Masters from UC Berkeley's School of Journalism, where I trained to report deeply, write stories, shoot videos, and build interactives. This is a selection of some of my work from over the years."
 socialmedia: 
   - title: "Email"
     url: "mailto:mickey.capper@gmail.com"
@@ -18,6 +18,14 @@ socialmedia:
 
 socialmediaTheme: "black" #white, black or leave blank for no circle
 portfolio:
+  - title: "No One Is Coming To Save Us"
+    url: "https://lemonadamedia.com/show/noictsu/"
+    photo: "assets/cover-art/NOICTSU.jpeg"
+    description: "As Supervising Producer, I led a production team to create a deeply-reported, moving, and delightful audio documentary series about America's child care crisis and how to fix it. Hosted by Gloria Riviera; featuring Kristen Bell and Elizabeth Warren."
+  - title: "Get WIRED"
+    url: "https://link.chtbl.com/gw-editorial"
+    photo: "assets/cover-art/getwired.jpeg"
+    description: "I worked with WIRED's writers and editors to build on WIRED's reporting to make beautiful, sound-rich, and compelling audio stories. I'm especially proud of my work on the episodes 'The Secret History of Video Game Music' and 'Letter to My Pandemic Baby.'"
   - title: "Tape"
     url: "https://soundcloud.com/taperadio"
     photo: "assets/cover-art/tape.jpg"
